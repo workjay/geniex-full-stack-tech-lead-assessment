@@ -70,4 +70,4 @@ To submit your assessment, please follow these steps:
 
 3. **MANDATORY: Include your name in the PR**
 
-   Add your name, email, and the role you applied for to the PR description so we can identify you.
+   Add your Upwork name, Upwork profile link, and the role you applied for to the PR description so we can identify you.
